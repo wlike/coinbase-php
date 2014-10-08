@@ -1,0 +1,9 @@
+language: php
+
+php:
+  - 5.3
+
+script:
+  - cd ./test
+  - chmod +x run_ut.sh 
+  - ./run_ut.sh
