@@ -1,5 +1,7 @@
 # Coinbase PHP Client Library
 
+[![Build Status](https://travis-ci.org/wlike/coinbase-php.svg?branch=master)](https://travis-ci.org/wlike/coinbase-php)
+
 An easy way to buy, send, and accept [bitcoin](http://en.wikipedia.org/wiki/Bitcoin) through the [Coinbase API](https://coinbase.com/docs/api/overview).
 
 This library supports both the [API key authentication method](https://coinbase.com/docs/api/overview) and OAuth. The below examples use an API key - for instructions on how to use OAuth, see [OAuth Authentication](#oauth-authentication).
